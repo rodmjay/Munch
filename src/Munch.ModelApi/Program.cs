@@ -1,7 +1,7 @@
 #region Header
 
 // /*
-// Copyright (c) 2021 SolutionStream. All rights reserved.
+// Copyright (c) 2021 Rod Johnson. All rights reserved.
 // Author: Rod Johnson, Architect, Munch
 // */
 
