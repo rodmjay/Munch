@@ -1,0 +1,3 @@
+﻿Id,TenantId,FirstName,LastName,UserName,NormalizedUserName,Email,NormalizedEmail,EmailConfirmed,PasswordHash,SecurityStamp,ConcurrencyStamp,PhoneNumber,PhoneNumberConfirmed,TwoFactorEnabled,LockoutEnd,LockoutEnabled,AccessFailedCount,Iso2,Code3,DisplayName
+1,1,Rod,Johnson,admin@admin.com,ADMIN@ADMIN.COM,admin@admin.com,ADMIN@ADMIN.COM,1,AQAAAAEAACcQAAAAEIVVeEi6VZ2YB3JUwyExMUFOL9E6rS4Px8AHXK0osa6ncEsGkS0mFtBesBmGurNFuA==,,20f1b6e7-64b7-4658-9f5a-ca9b73da374e,123-123-1234,0,0,,0,0,US,eng,Rod J
+2,1,Mia,Malkova,mia@malkova.com,MIA@MALKOVA.COM,mia@maklova.com,MIA@MALKOVA.COM,1,AQAAAAEAACcQAAAAEIVVeEi6VZ2YB3JUwyExMUFOL9E6rS4Px8AHXK0osa6ncEsGkS0mFtBesBmGurNFuA==,,20f1b6e7-64b7-4658-9f5a-ca9b73da374e,123-123-1234,0,0,,0,0,US,eng,Mia Malkova

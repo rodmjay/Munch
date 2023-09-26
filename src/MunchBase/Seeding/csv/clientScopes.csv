@@ -1,0 +1,16 @@
+﻿Id,Scope,ClientId
+1,openid,3
+2,api1,2
+3,api1,3
+4,api1,1
+5,profile,1
+6,openid,1
+7,openid,4
+8,profile,4
+9,api1,4
+10,profile,3
+11,admin,1
+12,model,1
+13,producer,1
+14,editor,1
+15,consumer,1
